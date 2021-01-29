@@ -1,0 +1,172 @@
+
+
+/* Navbar */
+
+#navbar {
+  padding-bottom: 4.5rem;
+}
+
+#container {
+  padding-top: 3%;
+  padding-bottom: 0;
+  padding-right: 15%;
+  padding-left: 15%;
+
+
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-weight: 100;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+}
+
+/* Title */
+
+#title {
+  background-color: #ff4c68;
+  font-family: "Montserrat";
+  position: relative;
+  color: #fff;
+}
+
+.iphone {
+  border: 1px solid #ff4c68;
+  border-radius: 40px;
+  transform: rotate(30deg);
+  width: 250px;
+  position: relative;
+  left: 100px;
+
+}
+
+.head1 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  text-align: center;
+
+}
+
+.down {
+  margin: 7% 5% 10px 5%;
+  position: relative;
+  left: 10%;
+
+}
+
+/* Features */
+
+#features {
+  margin: 0 5px 20px;
+  text-align: center;
+  padding: 5%;
+  background-color: white;
+  position: relative;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.fas {
+  color: #ff4c68;
+  margin: 10px 40%;
+}
+
+.fas:hover {
+  color: #b94961;
+}
+
+
+/* Testimonials */
+
+#testimonials {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 100px;
+  color: #fff;
+}
+
+
+.head2 {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.tst-img {
+  width: 100px;
+  border-radius: 100%;
+  padding: 15px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+  height: 450px;
+}
+
+
+
+
+
+/* Press */
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.logo-pics {
+  margin: 20px 30px 50px;
+}
+
+
+/* Pricing */
+
+#pricing {
+  margin: 30px auto;
+  text-align: center;
+}
+
+/* Call to action */
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 100px;
+  color: #fff;
+}
+
+.down2 {
+  margin: 3% 15px 10px 15px;
+}
+
+
+/* Footer */
+
+#footer {
+  background-color: #fff;
+  padding: 50px;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #97a69d;
+}
+
+.f-icon {
+  padding: 10px;
+}
